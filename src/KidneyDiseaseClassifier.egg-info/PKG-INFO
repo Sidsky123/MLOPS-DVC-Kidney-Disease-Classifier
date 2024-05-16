@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: KidneyDiseaseClassifier
+Version: 0.0.1
+Summary: A small python package for CNN app
+Home-page: https://github.com/SidSky123/MLOPS-DVC-Kidney-Disease-Classifier
+Author: SidSky123
+Author-email: siddhantsiddhant6@gmail.com
+Project-URL: Bug Tracker, https://github.com/SidSky123/MLOPS-DVC-Kidney-Disease-Classifier/issues
